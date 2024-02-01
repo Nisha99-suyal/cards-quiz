@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nisha99-suyal/cards-quiz.git/static/css/main.f4193fc1.css",
+    "main.js": "/Nisha99-suyal/cards-quiz.git/static/js/main.d2eb7531.js",
+    "static/js/787.9dca7da0.chunk.js": "/Nisha99-suyal/cards-quiz.git/static/js/787.9dca7da0.chunk.js",
+    "index.html": "/Nisha99-suyal/cards-quiz.git/index.html",
+    "main.f4193fc1.css.map": "/Nisha99-suyal/cards-quiz.git/static/css/main.f4193fc1.css.map",
+    "main.d2eb7531.js.map": "/Nisha99-suyal/cards-quiz.git/static/js/main.d2eb7531.js.map",
+    "787.9dca7da0.chunk.js.map": "/Nisha99-suyal/cards-quiz.git/static/js/787.9dca7da0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4193fc1.css",
+    "static/js/main.d2eb7531.js"
+  ]
+}
